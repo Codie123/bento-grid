@@ -40,8 +40,8 @@ The challenge was to build a responsive Bento Grid layout, mimicking a popular U
 
 ### Links
 
--   Solution URL: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)  <!-- REPLACE WITH YOUR REPO URL -->
--   Live Site URL: [https://your-deployed-site.com](https://your-deployed-site.com) <!-- REPLACE WITH YOUR LIVE SITE URL (e.g., Netlify, Vercel, GitHub Pages) -->
+-   Solution URL: [https://github.com/Codie123/bento-grid](https://github.com/Codie123/bento-grid)  <!-- REPLACE WITH YOUR REPO URL -->
+-   Live Site URL: [https://bento-grid-drab-omega.vercel.app/](https://bento-grid-drab-omega.vercel.app/) <!-- REPLACE WITH YOUR LIVE SITE URL (e.g., Netlify, Vercel, GitHub Pages) -->
 
 ## My Process
 
